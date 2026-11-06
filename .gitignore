@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.tsbuildinfo
+*.log
+
+# Referencias e versoes de imagens preservadas apenas localmente
+public/arvore-referencia.png
+public/arvore-referencia.webp
+public/arvore-ilustrativa-v4.png
+public/arvore-ilustrativa-v4.webp
+public/arvore-ilustrativa-v5.png
+
